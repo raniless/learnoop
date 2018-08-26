@@ -10,3 +10,7 @@
 
 * *텍스트* _텍스트_
 * started to learn java sincerely
+
+* **굵기** __굵기__
+
+> 인용
