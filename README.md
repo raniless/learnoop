@@ -14,5 +14,5 @@
 * **굵기** __굵기__
 
 > 인용
-[네이버](http://www.naver.com)
+* [네이버](http://www.naver.com)
 >
