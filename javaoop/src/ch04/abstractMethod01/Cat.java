@@ -1,0 +1,10 @@
+package ch04.abstractMethod01;
+
+import ch04.abstractMethod01.Animal;
+
+public class Cat extends Animal{
+	@Override
+	void cry() {
+		System.out.println("³ª´Â °í¾çÀÌ! ³Ä¿Ë! ³Ä¿Ë!");
+	}
+}
