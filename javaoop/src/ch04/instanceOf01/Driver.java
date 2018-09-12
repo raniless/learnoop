@@ -1,4 +1,4 @@
-package ch04.instance01;
+package ch04.instanceOf01;
 
 class Animal {
 	
