@@ -1,4 +1,4 @@
-package exprt001_01;
+package expert001_01;
 
 import static org.junit.Assert.*;
 import org.junit.Test;
