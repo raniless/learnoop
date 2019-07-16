@@ -26,7 +26,7 @@ local.properties
 .gradle/
 
 bin
-*.classpath
-*.project
+.classpath
+.project
 build
 *.log
