@@ -19,7 +19,7 @@ tmp/**/*
 local.properties
 .classpath
 *.classpath
-.settings
+.settings/
 .loadpath
 
 # gradle
