@@ -21,12 +21,12 @@ local.properties
 *.classpath
 .settings/
 .loadpath
+bin
+build
+*.log
 
 # gradle
 .gradle/
 
-bin
-.classpath
-.project
-build
-*.log
+# Spring
+.springBeans
